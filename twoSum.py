@@ -6,3 +6,7 @@ class Solution:
                 dict[target-num] = i
             else:
                 return [dict[num], i]
+
+ 
+Time Complexity : O(n)
+Space Complexity : O(n)
