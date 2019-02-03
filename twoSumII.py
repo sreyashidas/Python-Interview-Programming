@@ -16,3 +16,7 @@ class Solution:
                 j = j - 1
             else:
                 return [i+1,j+1]
+
+            
+         Time Complexity : O(n)
+         Space Complexity : O(n)
